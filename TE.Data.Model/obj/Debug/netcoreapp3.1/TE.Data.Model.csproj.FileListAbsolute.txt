@@ -1,0 +1,9 @@
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Data.Model\bin\Debug\netcoreapp3.1\TE.Data.Model.deps.json
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Data.Model\bin\Debug\netcoreapp3.1\TE.Data.Model.dll
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Data.Model\bin\Debug\netcoreapp3.1\TE.Data.Model.pdb
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Data.Model\obj\Debug\netcoreapp3.1\TE.Data.Model.csprojAssemblyReference.cache
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Data.Model\obj\Debug\netcoreapp3.1\TE.Data.Model.AssemblyInfoInputs.cache
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Data.Model\obj\Debug\netcoreapp3.1\TE.Data.Model.AssemblyInfo.cs
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Data.Model\obj\Debug\netcoreapp3.1\TE.Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Data.Model\obj\Debug\netcoreapp3.1\TE.Data.Model.dll
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Data.Model\obj\Debug\netcoreapp3.1\TE.Data.Model.pdb

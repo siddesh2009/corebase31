@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="BCrypt.Net-Core" Version="1.6.0" />
+    <PackageReference Include="NETCore.MailKit" Version="2.0.3" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.10.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core.Common\Core.Common.csproj" />
+    <ProjectReference Include="..\TE.Business.Contract\TE.Business.Contract.csproj" />
+    <ProjectReference Include="..\TE.Data.Contract\TE.Data.Contract.csproj" />
+    <ProjectReference Include="..\TE.Data.Model\TE.Data.Model.csproj" />
+    <ProjectReference Include="..\TE.ViewModel\TE.ViewModel.csproj" />
+  </ItemGroup>
+
+</Project>

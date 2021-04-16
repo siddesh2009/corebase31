@@ -1,0 +1,12 @@
+C:\Users\harshavardhana.ts\source\repos\TE\TE.ViewModel\bin\Debug\netcoreapp3.1\TE.ViewModel.deps.json
+C:\Users\harshavardhana.ts\source\repos\TE\TE.ViewModel\bin\Debug\netcoreapp3.1\TE.ViewModel.dll
+C:\Users\harshavardhana.ts\source\repos\TE\TE.ViewModel\bin\Debug\netcoreapp3.1\TE.ViewModel.pdb
+C:\Users\harshavardhana.ts\source\repos\TE\TE.ViewModel\bin\Debug\netcoreapp3.1\TE.Data.Model.dll
+C:\Users\harshavardhana.ts\source\repos\TE\TE.ViewModel\bin\Debug\netcoreapp3.1\TE.Data.Model.pdb
+C:\Users\harshavardhana.ts\source\repos\TE\TE.ViewModel\obj\Debug\netcoreapp3.1\TE.ViewModel.csprojAssemblyReference.cache
+C:\Users\harshavardhana.ts\source\repos\TE\TE.ViewModel\obj\Debug\netcoreapp3.1\TE.ViewModel.AssemblyInfoInputs.cache
+C:\Users\harshavardhana.ts\source\repos\TE\TE.ViewModel\obj\Debug\netcoreapp3.1\TE.ViewModel.AssemblyInfo.cs
+C:\Users\harshavardhana.ts\source\repos\TE\TE.ViewModel\obj\Debug\netcoreapp3.1\TE.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\harshavardhana.ts\source\repos\TE\TE.ViewModel\obj\Debug\netcoreapp3.1\TE.ViewModel.csproj.CopyComplete
+C:\Users\harshavardhana.ts\source\repos\TE\TE.ViewModel\obj\Debug\netcoreapp3.1\TE.ViewModel.dll
+C:\Users\harshavardhana.ts\source\repos\TE\TE.ViewModel\obj\Debug\netcoreapp3.1\TE.ViewModel.pdb

@@ -1,0 +1,328 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.Data.Logic\\TE.Data.Logic.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\Core.Common\\Core.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\Core.Common\\Core.Common.csproj",
+        "projectName": "Core.Common",
+        "projectPath": "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\Core.Common\\Core.Common.csproj",
+        "packagesPath": "C:\\Users\\harshavardhana.ts\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\Core.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\harshavardhana.ts\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.Data.Model\\TE.Data.Model.csproj": {
+                "projectPath": "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.Data.Model\\TE.Data.Model.csproj"
+              },
+              "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.ViewModel\\TE.ViewModel.csproj": {
+                "projectPath": "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.ViewModel\\TE.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.Data.Contract\\TE.Data.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.Data.Contract\\TE.Data.Contract.csproj",
+        "projectName": "TE.Data.Contract",
+        "projectPath": "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.Data.Contract\\TE.Data.Contract.csproj",
+        "packagesPath": "C:\\Users\\harshavardhana.ts\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.Data.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\harshavardhana.ts\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.Data.Model\\TE.Data.Model.csproj": {
+                "projectPath": "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.Data.Model\\TE.Data.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.Data.Logic\\TE.Data.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.Data.Logic\\TE.Data.Logic.csproj",
+        "projectName": "TE.Data.Logic",
+        "projectPath": "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.Data.Logic\\TE.Data.Logic.csproj",
+        "packagesPath": "C:\\Users\\harshavardhana.ts\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.Data.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\harshavardhana.ts\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\Core.Common\\Core.Common.csproj": {
+                "projectPath": "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\Core.Common\\Core.Common.csproj"
+              },
+              "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.Data.Contract\\TE.Data.Contract.csproj": {
+                "projectPath": "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.Data.Contract\\TE.Data.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.Data.Model\\TE.Data.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.Data.Model\\TE.Data.Model.csproj",
+        "projectName": "TE.Data.Model",
+        "projectPath": "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.Data.Model\\TE.Data.Model.csproj",
+        "packagesPath": "C:\\Users\\harshavardhana.ts\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.Data.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\harshavardhana.ts\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.ViewModel\\TE.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.ViewModel\\TE.ViewModel.csproj",
+        "projectName": "TE.ViewModel",
+        "projectPath": "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.ViewModel\\TE.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\harshavardhana.ts\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\harshavardhana.ts\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.Data.Model\\TE.Data.Model.csproj": {
+                "projectPath": "C:\\Users\\harshavardhana.ts\\source\\repos\\TE\\TE.Data.Model\\TE.Data.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

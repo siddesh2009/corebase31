@@ -1,0 +1,9 @@
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Utility.Logic\bin\Debug\netcoreapp3.1\TE.Utility.Logic.deps.json
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Utility.Logic\bin\Debug\netcoreapp3.1\TE.Utility.Logic.dll
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Utility.Logic\bin\Debug\netcoreapp3.1\TE.Utility.Logic.pdb
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Utility.Logic\obj\Debug\netcoreapp3.1\TE.Utility.Logic.csprojAssemblyReference.cache
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Utility.Logic\obj\Debug\netcoreapp3.1\TE.Utility.Logic.AssemblyInfoInputs.cache
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Utility.Logic\obj\Debug\netcoreapp3.1\TE.Utility.Logic.AssemblyInfo.cs
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Utility.Logic\obj\Debug\netcoreapp3.1\TE.Utility.Logic.csproj.CoreCompileInputs.cache
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Utility.Logic\obj\Debug\netcoreapp3.1\TE.Utility.Logic.dll
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Utility.Logic\obj\Debug\netcoreapp3.1\TE.Utility.Logic.pdb

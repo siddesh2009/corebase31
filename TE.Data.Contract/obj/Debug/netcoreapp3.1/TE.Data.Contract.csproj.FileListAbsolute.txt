@@ -1,0 +1,12 @@
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Data.Contract\bin\Debug\netcoreapp3.1\TE.Data.Contract.deps.json
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Data.Contract\bin\Debug\netcoreapp3.1\TE.Data.Contract.dll
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Data.Contract\bin\Debug\netcoreapp3.1\TE.Data.Contract.pdb
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Data.Contract\bin\Debug\netcoreapp3.1\TE.Data.Model.dll
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Data.Contract\bin\Debug\netcoreapp3.1\TE.Data.Model.pdb
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Data.Contract\obj\Debug\netcoreapp3.1\TE.Data.Contract.csprojAssemblyReference.cache
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Data.Contract\obj\Debug\netcoreapp3.1\TE.Data.Contract.AssemblyInfoInputs.cache
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Data.Contract\obj\Debug\netcoreapp3.1\TE.Data.Contract.AssemblyInfo.cs
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Data.Contract\obj\Debug\netcoreapp3.1\TE.Data.Contract.csproj.CoreCompileInputs.cache
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Data.Contract\obj\Debug\netcoreapp3.1\TE.Data.Contract.csproj.CopyComplete
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Data.Contract\obj\Debug\netcoreapp3.1\TE.Data.Contract.dll
+C:\Users\harshavardhana.ts\source\repos\TE\TE.Data.Contract\obj\Debug\netcoreapp3.1\TE.Data.Contract.pdb

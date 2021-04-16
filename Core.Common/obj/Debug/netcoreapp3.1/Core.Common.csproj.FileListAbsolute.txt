@@ -1,0 +1,14 @@
+C:\Users\harshavardhana.ts\source\repos\TE\Core.Common\bin\Debug\netcoreapp3.1\Core.Common.deps.json
+C:\Users\harshavardhana.ts\source\repos\TE\Core.Common\bin\Debug\netcoreapp3.1\Core.Common.dll
+C:\Users\harshavardhana.ts\source\repos\TE\Core.Common\bin\Debug\netcoreapp3.1\Core.Common.pdb
+C:\Users\harshavardhana.ts\source\repos\TE\Core.Common\bin\Debug\netcoreapp3.1\TE.Data.Model.dll
+C:\Users\harshavardhana.ts\source\repos\TE\Core.Common\bin\Debug\netcoreapp3.1\TE.ViewModel.dll
+C:\Users\harshavardhana.ts\source\repos\TE\Core.Common\bin\Debug\netcoreapp3.1\TE.Data.Model.pdb
+C:\Users\harshavardhana.ts\source\repos\TE\Core.Common\bin\Debug\netcoreapp3.1\TE.ViewModel.pdb
+C:\Users\harshavardhana.ts\source\repos\TE\Core.Common\obj\Debug\netcoreapp3.1\Core.Common.csprojAssemblyReference.cache
+C:\Users\harshavardhana.ts\source\repos\TE\Core.Common\obj\Debug\netcoreapp3.1\Core.Common.AssemblyInfoInputs.cache
+C:\Users\harshavardhana.ts\source\repos\TE\Core.Common\obj\Debug\netcoreapp3.1\Core.Common.AssemblyInfo.cs
+C:\Users\harshavardhana.ts\source\repos\TE\Core.Common\obj\Debug\netcoreapp3.1\Core.Common.csproj.CoreCompileInputs.cache
+C:\Users\harshavardhana.ts\source\repos\TE\Core.Common\obj\Debug\netcoreapp3.1\Core.Common.csproj.CopyComplete
+C:\Users\harshavardhana.ts\source\repos\TE\Core.Common\obj\Debug\netcoreapp3.1\Core.Common.dll
+C:\Users\harshavardhana.ts\source\repos\TE\Core.Common\obj\Debug\netcoreapp3.1\Core.Common.pdb
